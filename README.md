@@ -1,5 +1,6 @@
 # Основи програмування
-**#2 basics of programming**
+**[#2 basics of programming](https://github.com/AnD-FLuX/2_Basics_Programming/tree/main)**
+
 **lesson_01**
 
 **Урок №1**
